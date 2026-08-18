@@ -11,7 +11,11 @@ Purpose-oriented networks, which are coalitions of public, nonprofit, and privat
 
 Substantively, the work spans three connected questions. The first concerns the relationship between networks and their environments: how environmental conditions select for some network forms over others, how network domains evolve as ecological populations, and how context mechanisms shape network design and behavior. The second concerns network resilience: what configurational pathways allow networks to survive, what structural and functional antecedents predict adaptation, and how networks govern themselves under crisis. The third concerns the connections between purpose, process, and outcome: how logic-model dynamics translate network activities into substantive impact, and how strategic convening builds collective capacity.
 
-This program is conducted in close collaboration with an international community of network scholars, including the Across the PONs team science group (Raab, Siciliano, Sánchez, Nowell, Kapucu, Milward, Shumate, Tantardini), and produces both peer-reviewed scholarship and data collection instruments for researchers.
+::: {.callout-note appearance="simple" icon=false}
+### Across the PONs — International Collaboration
+
+I am a collaborator on [**Across the PONs**](https://across-the-pons.github.io/){target="_blank"}, a cross-national study of how purpose-oriented networks form, govern themselves, and perform. The project takes a team-science approach to building a comparative, multi-country database of PONs, using common survey instruments and interview guides to enable research across national institutional contexts.
+:::
 
 *For PDFs of any Selected Works, please contact me at kalbrech@uic.edu*
 
